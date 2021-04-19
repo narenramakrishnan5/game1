@@ -1,0 +1,2 @@
+var bird
+var obstacles
